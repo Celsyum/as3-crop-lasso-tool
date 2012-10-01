@@ -5,13 +5,13 @@
     <movie outputType="Application" />
     <movie input="" />
     <movie path="bin\AS3LassoToolCrop.swf" />
-    <movie fps="30" />
-    <movie width="800" />
-    <movie height="600" />
+    <movie fps="45" />
+    <movie width="400" />
+    <movie height="128" />
     <movie version="10" />
     <movie minorVersion="1" />
     <movie platform="Flash Player" />
-    <movie background="#FFFFFF" />
+    <movie background="#C8C8C8" />
   </output>
   <!-- Other classes to be compiled into your SWF -->
   <classpaths>
