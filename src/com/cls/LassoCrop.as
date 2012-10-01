@@ -16,8 +16,9 @@ package com.cls
 	[Event(name="cropped",type="com.cls.LassoCrop")]
 	
 	/**
-	 *
-	   Copyright (c) 2012 Celsyum "Digital Zombies"
+	 * Main class	   
+	 * @author Celsyum 2012 Digital Zombies
+		Copyright (c) 2012 Celsyum "Digital Zombies"
 	
 	   Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"),
 	   to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense,
@@ -27,7 +28,6 @@ package com.cls
 	   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 	   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 	   IN THE SOFTWARE.
-	 * @author Celsyum 2012 Digital Zombies
 	 */
 	public class LassoCrop extends EventDispatcher
 	{
