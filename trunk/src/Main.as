@@ -58,8 +58,6 @@ package
 			var bit:Bitmap = lass.getResult(true);  //geting cropped part
 			addChild(bit);
 			bit.x = 200;
-			
-			lass.reset();
 		}
 		
 	}
